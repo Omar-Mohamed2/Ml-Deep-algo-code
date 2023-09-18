@@ -1,2 +1,2 @@
 # Ml-Deep-algo-code
-## machine learning and deep learning algorithms code for teaching
+## Machine learning and deep learning algorithms code for teaching
